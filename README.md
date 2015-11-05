@@ -16,7 +16,12 @@ I don't have a RADAR gun, but I do have a cell phone and access to the Cathedral
 
 ![Two second snippet of the raw footage](assets/movieclip.gif)
 
-You can see Dippy the Dino on the top left, with Schenley Plaza on the top right, and the intersection with Schenley Drive Extension in between.  Unfortunately the trees obscure the section of the road where I think traffic moves the fastest, but there's a great view of about 300ft of the road.  I rotated and cropped the image, used basic image processing techniques to detect objects and their locations, converted pixels to meters, and computed their speeds. The full analysis is documented below. It worked surprisingly well:
+You can see Dippy the Dino on the top left, with Schenley Plaza on the top right, and the intersection with Schenley Drive Extension in between.  Unfortunately the trees obscure the section of the road where I think traffic moves the fastest, but there's a great view of about 300ft of the road.  I rotated and cropped the image, used basic image processing techniques to detect objects and their locations, converted pixels to meters, and computed their speeds. The full analysis is documented in the IJulia/Jupyter notebook within this repository. It worked surprisingly well:
 
 ![The same two second snippet, but rotated, cropped, and annotated with speeds in MPH](assets/processedclip.gif)
 
+Now we can see how fast traffic can move!  Here's the maximum speeds of all vehicles which got tracked for more than two seconds:
+
+![Histogram of vehicle speeds](assets/max_speeds.png)
+
+Two cars were caught going over 40 miles per hour in this 25MPH zone.  And ten others were between 35-40 miles per hour.  If any of these cars happen to hit a pedestrian or cyclist, regardless of the fault, there is a significantly greater chance of serious harm or death than if they were following the speed limit.  This is strong evidence that the city needs to work harder at reducing speeds throughout this busy corridor to keep students, pedestrians, cyclists, and drivers alike safe.  Working towards comprehensive solutions over the next two to three years is a great goal, but there are small steps that the city and university can take *today* to make this street a safer place. Let's increase speed awareness with more signs and enforcement.

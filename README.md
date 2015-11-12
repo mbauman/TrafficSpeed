@@ -20,7 +20,7 @@ You can see Dippy the Dino on the top left, with Schenley Plaza on the top right
 
 ![The same two second snippet, but rotated, cropped, and annotated with speeds in MPH](assets/processedclip.gif)
 
-Now we can see how fast traffic can move! See the [full ten minutes of annotated traffic at YouTube](https://youtu.be/R8jttmhTTUE). Here's the maximum speeds of all vehicles which got tracked for more than two seconds:
+Now we can see how fast traffic can move! See the [full ten minutes of annotated traffic at YouTube](https://youtu.be/jwVxQ7OcNyk). Here's the maximum speeds of all vehicles which got tracked for more than two seconds:
 
 ![Histogram of vehicle speeds](assets/max_speeds.png)
 

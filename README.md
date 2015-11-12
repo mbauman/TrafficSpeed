@@ -12,7 +12,7 @@ The stretch of Forbes Avenue that I'd like to focus on is between Pitt and CMU:
 
 It's here that the road and surrounding area "opens up." The previous 8-10 blocks go through the tightly packed Oakland business district, with timed traffic lights (matching the 25MPH speed limit) at every intersection.  Once you reach Schenley Plaza, though, the buildings recede away and there's a sense of freedom.  I also believe that the timings of lights change at this point, too, allowing you to exceed 25MPH for the first time since the highway exit.  Once you get to the Natural History museum, a fourth travel lane is added on the left and the right lane turns into an unmarked 20ft wide luxury lane.  The right side of this lane is intended as a bus stop, but the lack of markings makes it a bit of a free-for-all when there aren't any busses.  I believe that all these things contribute to an overall increase in speed.
 
-I don't have a RADAR gun, but I do have a cell phone and access to the Cathedral of Learning.  At 3:30pm on Friday afternoon, I recorded 10 minutes of traffic on Forbes Ave.  Here's a snippet of what this looked like:
+I don't have a RADAR gun, but I do have a cell phone and access to the Cathedral of Learning.  At 3:30pm on Friday afternoon, I recorded 10 minutes of traffic on Forbes Ave. The full movie is [available on YouTube](https://youtu.be/R8jttmhTTUE). Here's a snippet of what this looked like:
 
 ![Two second snippet of the raw footage](assets/movieclip.gif)
 
@@ -20,7 +20,7 @@ You can see Dippy the Dino on the top left, with Schenley Plaza on the top right
 
 ![The same two second snippet, but rotated, cropped, and annotated with speeds in MPH](assets/processedclip.gif)
 
-Now we can see how fast traffic can move!  Here's the maximum speeds of all vehicles which got tracked for more than two seconds:
+Now we can see how fast traffic can move! See the [full ten minutes of annotated traffic at YouTube](https://youtu.be/R8jttmhTTUE). Here's the maximum speeds of all vehicles which got tracked for more than two seconds:
 
 ![Histogram of vehicle speeds](assets/max_speeds.png)
 

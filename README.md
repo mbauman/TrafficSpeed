@@ -1,4 +1,4 @@
-# Geurilla traffic speed monitoring to inform and push for change
+# Guerilla traffic speed monitoring to inform and push for change
 
 #### *(or: using open source software and readily available tools to see how fast traffic moves on Forbes Ave)*
 
